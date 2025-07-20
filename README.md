@@ -28,9 +28,8 @@ A beautiful and dynamic **Recurring Date Picker** built with **React**, **Tailwi
 
 ##  Demo & Links
 
--  **Live Preview (CodeSandbox):** [Click to Open](https://codesandbox.io/s/your-demo-link)
+-  **Live Preview (CodeSandbox):** [Click to Open]([https://codesandbox.io/s/your-demo-link](https://codesandbox.io/p/devbox/recurringdatepicker-3glqk5))
 -  **GitHub Repository:** [RecurringDatePicker](https://github.com/GauriGupta21/RecurringDatePicker)
--  **Loom Video Walkthrough:** [Watch Here](https://loom.com/your-video-link)
 
 ---
 
